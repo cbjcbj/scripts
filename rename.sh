@@ -1,4 +1,4 @@
-ori=/home/cbj/desktop/汽车俯视图
+ori=/home/cbj/desktop/1
 tar=/home/cbj/docs/scripts/test
 mkdir $d
 
